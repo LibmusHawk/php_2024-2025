@@ -7,19 +7,5 @@
 </head>
 <body>
     
-    <?php
-        $a = 15;
-
-
-        if ($a < 18) {
-            echo "You are a youngling!";
-          }
-          else
-          {
-            echo "you are a chunk";
-          }
-    ?>
-    
-
 </body>
 </html>
